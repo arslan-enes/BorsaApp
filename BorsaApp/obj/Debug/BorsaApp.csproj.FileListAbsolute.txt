@@ -1,0 +1,13 @@
+C:\Users\enesf\Desktop\BorsaApp\BorsaApp\obj\Debug\BorsaApp.csprojAssemblyReference.cache
+C:\Users\enesf\Desktop\BorsaApp\BorsaApp\obj\Debug\BorsaApp.Properties.Resources.resources
+C:\Users\enesf\Desktop\BorsaApp\BorsaApp\obj\Debug\BorsaApp.csproj.GenerateResource.cache
+C:\Users\enesf\Desktop\BorsaApp\BorsaApp\obj\Debug\BorsaApp.csproj.CoreCompileInputs.cache
+C:\Users\enesf\Desktop\BorsaApp\BorsaApp\bin\Debug\BorsaApp.exe.config
+C:\Users\enesf\Desktop\BorsaApp\BorsaApp\bin\Debug\BorsaApp.exe
+C:\Users\enesf\Desktop\BorsaApp\BorsaApp\bin\Debug\BorsaApp.pdb
+C:\Users\enesf\Desktop\BorsaApp\BorsaApp\obj\Debug\BorsaApp.exe
+C:\Users\enesf\Desktop\BorsaApp\BorsaApp\obj\Debug\BorsaApp.pdb
+C:\Users\enesf\Desktop\BorsaApp\BorsaApp\obj\Debug\BorsaApp.Login.resources
+C:\Users\enesf\Desktop\BorsaApp\BorsaApp\obj\Debug\BorsaApp.KayitEkrani.resources
+C:\Users\enesf\Desktop\BorsaApp\BorsaApp\obj\Debug\BorsaApp.AdminAnaEkran.resources
+C:\Users\enesf\Desktop\BorsaApp\BorsaApp\obj\Debug\BorsaApp.AliciSaticiAnaEkran.resources
